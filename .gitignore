@@ -1,0 +1,18 @@
+
+# Python standard .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+env/
+venv/
+build/
+dist/
+*.egg-info/
+*.egg
+.idea/
+.vscode/
+.DS_Store
