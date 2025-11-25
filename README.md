@@ -1,42 +1,19 @@
-# Unified Play of Consciousness (UPC) – Repository
+# upc-research
+Main repository for UPC research papers, documents, and theory.
 
-This repository is part of the **UPC Open Science Ecosystem**, which hosts:
-- Research papers and scientific documents  
-- Standardized metadata templates  
-- Automation scripts for workflows, uploads, and quality control  
+This repository contains all **research papers, theory documents, metric definitions, and domain analyses** for the Unified Play of Consciousness (UPC) scientific framework.
 
-All repositories follow the same structure, licensing, and review standards to ensure clarity, scientific rigor, and reproducibility.
+It is the main location for the development, versioning, and publication of UPC research materials.
 
-## 📌 Purpose of This Repository
+---
 
-**upc-research:**  
-Primary location for research papers, theory documents, metric definitions, and domain-specific analyses.
+## 📌 Purpose
+- Store all UPC research documents (PDFs, drafts, notes).
+- Maintain version history for all scientific papers.
+- Provide structure, terminology, and formatting consistency.
+- Serve as the central public research hub for UPC.
 
-**upc-metadata-templates:**  
-Standardized metadata files, JSON/YAML templates, README templates, and OSF upload metadata structures.
+---
 
-**upc-automation:**  
-Scripts for:
-- automated OSF uploads  
-- DOI management  
-- file validation  
-- repository synchronization  
-- metadata generation  
+## 📁 Folder Structure
 
-## 📄 License
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-## 📚 Citation
-Clausen, B. (Year). Unified Play of Consciousness (UPC) Research Program. UPC Research Group, Zug, Switzerland. CC BY 4.0.
-
-## 📐 Repository Structure
-/docs/                
-/metadata/            
-/scripts/             
-/templates/           
-
-## 🤝 Contributions
-See `CONTRIBUTING.md`.
-
-## 📬 Contact
-Björn Clausen — research@upc.earth

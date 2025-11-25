@@ -1,0 +1,40 @@
+
+---
+
+## 🧩 Required File Standards (All Papers)
+Each paper must include:
+- Title page (author, version, license)
+- Abstract (150–300 words)
+- Keywords (6–10)
+- Standard headings:
+  1. Introduction  
+  2. Theoretical Framework  
+  3. Core Model / Proposal  
+  4. Implications & Applications  
+  5. Limitations & Future Work  
+  6. Conclusion
+- Mandatory end sections:
+  - Limitations & Future Work  
+  - Data, Code & Materials Availability  
+  - Conflicts of Interest  
+
+License for all papers: **CC-BY-4.0**
+
+---
+
+## 🔐 Branch Workflow
+All changes must go through a Pull Request:
+1. Create branch:  
+   `feature/<topic>` or `update/<paper-name>`
+2. Add/update content
+3. Submit PR → 1 approval required
+4. After review → merge to `main`
+
+No direct pushes allowed.
+
+---
+
+## 📬 Contact
+UPC Research Group  
+Björn Clausen  
+research@upc.earth
